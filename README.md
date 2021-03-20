@@ -1,7 +1,12 @@
 # my-mern-app
 Sample MERN Stacks
 
-CLI needed
+CLI:
 - Heroku
-- MongoDB Atlas 
-- Github
+- Node.js
+- Git
+
+Deployment
+- Front End: Netlify
+- Back End: Heroku
+- Database: MongoDB Atlas 
