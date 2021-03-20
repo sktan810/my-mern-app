@@ -24,7 +24,11 @@ Build and run @ remote
 - setup url in api file at client path with Heroku url.
 - deploy frontend code to Netlify.
 
-Cmd
+Cmd [Server]
 - git add .
 - git commit -am "commit messages"
 - git push heroku master
+
+Cmd [Client]
+- npm run build
+- pull or dnd build folder to Netlify.
