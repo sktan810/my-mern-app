@@ -2,6 +2,6 @@
 Sample MERN Stacks
 
 CLI needed
-- HeroKu
+- Heroku
 - MongoDB Atlas 
 - Github
