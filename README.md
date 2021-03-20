@@ -16,7 +16,7 @@ Build and run @ localhost
 - setup url in api file at client path
 - deploy and run @localhost
 
-Cmd
+Cmd [Server & Client]
 - npm start
 
 Build and run @ remote
