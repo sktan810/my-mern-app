@@ -1,5 +1,5 @@
 # my-mern-app
-Sample MERN Stacks
+MERN stacks Web App Project Practice
 
 CLI
 - Heroku
@@ -32,3 +32,5 @@ Cmd [Server]
 Cmd [Client]
 - npm run build
 - pull or dnd build folder to Netlify.
+
+** Can try https://zeet.co/ for deploy both frontend & backend as well as DB in Docker
